@@ -12,3 +12,9 @@ I practice the GitHub using the VS Code
 ### Visual Studio Code
 
 Fix the README.md File
+
+---
+
+### GitHub
+
+Fix the README.md File
